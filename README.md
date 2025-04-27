@@ -1,4 +1,4 @@
-Hi there 👋 I'm Muhammed Aydın
+Hi there 👋 
 🔭 I’m currently working on birikimhesapla.com — a financial forecasting platform I developed full-stack.
 
 
