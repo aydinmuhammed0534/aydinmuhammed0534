@@ -1,5 +1,6 @@
 Hi there 👋 I'm Muhammed Aydın
-🔭 I’m currently working on birikimhesapla.com — a financial planning platform I developed full-stack.
+🔭 I’m currently working on birikimhesapla.com — a financial forecasting platform I developed full-stack.
+
 
 🌱 Specializing in Full Stack Development, with a focus on Python, React, Node.js , Next.js , RESTful APIs and C#.
 
